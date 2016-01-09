@@ -15,6 +15,7 @@ Online Editor
 
 GIT
 - http://ndpsoftware.com/git-cheatsheet.html: git cheatsheet (cool UI)
+
 ---
 
 ***Training & Tutorial***
