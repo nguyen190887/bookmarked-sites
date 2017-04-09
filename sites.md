@@ -4,6 +4,9 @@ CSS
 - http://caniuse.com/: check browser compatibility of a specifc CSS
 - https://github.com/postcss/autoprefixer: AutoPrefixer github page
 
+JavaScript
+- http://youmightnotneedjquery.com/#contains_selector: yeah, you might not need jQuery
+
 Tools
 - https://github.com/sindresorhus/sublime-autoprefixer: Sublime AutoPrefixer
 
