@@ -18,6 +18,10 @@ Online Editor
 
 GIT
 - http://ndpsoftware.com/git-cheatsheet.html: git cheatsheet (cool UI)
+- http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent: to resolve nasty issue about ssh authentication; I myself use it when having multiple ssh keys
+
+Blogs
+- https://robrich.org/presentations: great blog, I think
 
 ---
 
