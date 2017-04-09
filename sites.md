@@ -9,6 +9,7 @@ JavaScript
 
 Tools
 - https://github.com/sindresorhus/sublime-autoprefixer: Sublime AutoPrefixer
+- https://www.ministryoftesting.com/2016/01/top-browser-extensions-for-testing-software/: top browser extensions for testing
 
 Mobile Automation Testing Framework
 - https://github.com/appium/appium
