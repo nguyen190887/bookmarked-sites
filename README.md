@@ -8,6 +8,7 @@ CSS
 
 JavaScript
 - http://youmightnotneedjquery.com/#contains_selector: yeah, you might not need jQuery
+- http://www.electrode.io/: React (Web & Native) framework powered by Wallmart
 
 Tools
 - https://github.com/sindresorhus/sublime-autoprefixer: Sublime AutoPrefixer
